@@ -1,6 +1,7 @@
 python-patterns
 ===============
 
+testme
 A collection of design patterns and idioms in Python.
 
 When an implementation is added or modified, be sure to update this file and
